@@ -1,12 +1,12 @@
 # Trabalho Final - Análise Prática de Previsão de Desvios
 Trabalho desenvolvido para a disciplina de Arquitetura de Computadores.
 
-## 👥 Integrantes do Grupo
+## Integrantes do Grupo
 * Isis Araújo Silveira
 * Sarah Lestensky Dias
 * William S Henrique S Matucheski Xavier
 
-## 🚀 Como Executar os Programas
+## Como Executar os Programas
 Para compilar os microbenchmarks sem otimizações de compilador e mantendo os símbolos de depuração no ambiente Windows/MinGW, utilize o GCC:
 
 ```bash
